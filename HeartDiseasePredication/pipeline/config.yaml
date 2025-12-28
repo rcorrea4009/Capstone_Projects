@@ -1,0 +1,22 @@
+model:
+  type: "RandomForest"
+  n_estimators: 120
+  max_depth: 5
+
+features:
+  numerical:
+    - "age"
+    - "resting_blood_pressure"
+    - "serum_cholesterol_mg_per_dl"
+    - "max_heart_rate_achieved"
+    - "oldpeak_eq_st_depression"
+
+  categorical:
+    - "sex"
+    - "chest_pain_type"
+    - "exercise_induced_angina"
+    - "slope_of_peak_exercise_st_segment"
+    - "fasting_blood_sugar_gt_120_mg_per_dl"
+    - "resting_ekg_results"
+    - "num_major_vessels"
+    - "thal"
