@@ -1,0 +1,51 @@
+*   [33m24ba6fc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtest[m[33m, [m[1;31morigin/test[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mCVE[m[33m)[m Merge pull request #31 from rcorrea4009/CVE
+[31m|[m[32m\[m  
+[31m|[m * [33m6e178ff[m Modified version of the CV
+[31m|[m * [33m1c72f77[m[33m ([m[1;31morigin/CVE[m[33m)[m updated CV
+[31m|[m * [33m7482228[m cve
+[31m|[m[31m/[m  
+* [33mce46bea[m[33m ([m[1;32mmain[m[33m)[m finish Stratified Splitting Implementation
+* [33m8f56ad8[m final commit for the pipeline
+* [33mabe8148[m final commit
+*   [33m818cb86[m Merge pull request #25 from rcorrea4009/10-feature-engineering
+[33m|[m[34m\[m  
+[33m|[m * [33mf6c8869[m did steps 1-5
+[33m|[m[33m/[m  
+* [33m5582a5d[m Final changes made to better show the stats
+* [33mb29615c[m added the numerical changes that was missing
+* [33m550be3a[m added the missing code form the last merge
+*   [33mc97c766[m Merge pull request #23 from rcorrea4009/7-data-cleaning-functions
+[35m|[m[36m\[m  
+[35m|[m *   [33mcca5b74[m Merge branch '7-data-cleaning-functions' of https://github.com/rcorrea4009/Projects into 7-data-cleaning-functions
+[35m|[m [1;31m|[m[1;32m\[m  
+[35m|[m [1;31m|[m * [33m92cb00f[m data cleaning
+[35m|[m * [1;32m|[m [33m23ace64[m rebased data cleaning
+[35m|[m[35m/[m [1;32m/[m  
+* [1;32m|[m   [33mfdeb1f8[m Merge pull request #24 from rcorrea4009/9-numerical-feature-scaling
+[1;33m|[m[1;34m\[m [1;32m\[m  
+[1;33m|[m * [1;32m|[m [33md7ad65a[m saved changes
+[1;33m|[m * [1;32m|[m [33m0cbb8cb[m Numerical featuring scaling
+* [1;34m|[m [1;32m|[m [33m3cb1440[m Revise UI documentation for risk circle implementation
+[1;34m|[m[1;34m/[m [1;32m/[m  
+* [1;32m|[m [33m1f938b2[m Revise UI documentation for HeartGuard AI Dashboard
+* [1;32m|[m [33m734fe17[m Added a new folder documentation
+[1;32m|[m[1;32m/[m  
+*   [33me9c5044[m Merge pull request #22 from rcorrea4009/6-assess-data-balance
+[1;35m|[m[1;36m\[m  
+[1;35m|[m * [33m972cbc2[m I changed the Visualisation: Message: to better respresent the information
+* [1;36m|[m [33mcd38cd7[m made the description doc into a pdf
+[1;36m|[m[1;36m/[m  
+*   [33me1546e2[m Merge pull request #19 from rcorrea4009/master
+[31m|[m[32m\[m  
+[31m|[m * [33m80ad74b[m label changes
+[31m|[m * [33mcb10266[m changed the file structures
+[31m|[m * [33mb1403c6[m Added EDA visualizations and cleanup
+[31m|[m[31m/[m  
+*   [33me072aa5[m Merge pull request #17 from rcorrea4009/4-core-tasks-to-implement
+[33m|[m[34m\[m  
+[33m|[m * [33m0e0d2c9[m Added data set to the project
+[33m|[m[33m/[m  
+* [33mdc62561[m added Objective in the readme
+* [33mb92e68b[m Added the problem statement in the readme
+* [33m6a604ec[m added the project details in pdf formate
+* [33m7786baf[m adding the details for the project
